@@ -1,0 +1,33 @@
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+a {
+    color: rgb(151, 149, 149);
+    text-decoration: none; 
+}
+
+header {
+    padding: 15px;
+    margin: 15px;
+    background-color: #FFFFF;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-section {
+    width: 30%; 
+    color: rgb(151, 149, 149);
+    margin-right: 10px;
+    padding: 40px 15px 15px 150px;
+}
+
+.right-section {
+    width: 100%; 
+    padding: 40px 15px 15px 0px;
+}
+
